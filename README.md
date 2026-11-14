@@ -56,7 +56,7 @@ hsien.ting.w@github
 | 📈 | **Influenza Trend Forecasting** | 用時間序列基礎模型 TimesFM 3.0 推估流感趨勢 |
 | 🪶 | [**Crisis-aware Medical AI**](https://www.twaicoe.org/crisis-aware-medical-ai-from-foundational-intelligence-to-lightweight-deployment-cn) | 國科會計畫子計畫三：醫療 AI 的知識蒸餾與邊緣部署 |
 | 🧫 | **Virtual Cell Challenge 2026** 🔒 | 零樣本擾動預測：只給三種細胞未經處理的對照組，預測 CRISPRi 關掉 300 個基因後，18,533 個基因的表現怎麼變化 |
-| 🐣 | **Virtual Embryo Challenge 2026 Track 2** 🔒 | 用已公開的胚胎發育時間點（每個細胞有 498 個基因的表現量與三維座標），預測未公開時間點會出現哪些細胞群；這個 track（Agent Team）規定由 LLM agent 自己提出方法、寫程式、評估與修改 |
+| 🐣 | **Virtual Embryo Challenge 2026 Track 2** 🔒<br><sub>Team SKT BioDynamics</sub> | 用已公開的胚胎發育時間點（每個細胞有 498 個基因的表現量與三維座標），預測未公開時間點會出現哪些細胞群；這個 track（Agent Team）規定由 LLM agent 自己提出方法、寫程式、評估與修改 |
 | 🤖 | **Agentic scRNA-seq** 🔒 | 用 LangChain Deep Agents 自動化單細胞 RNA-seq 分析：coordinator 帶四個 subagent，把對話需求轉成分析設定，自動跑完從 FASTQ 到細胞註解的 26 步流程，每一步由 judge 把關、關鍵決定交給人確認，最後核對報告裡的每個數字 |
 | 🩺 | **Personal Health Twin** 🔒 | BUILDMODE GEN-AI 黑客松 2026（AI for Taiwan／Social Impact 賽道）：每個人一份跟著自己走的健康紀錄，從長照機構開始，用 FHIR／TW Core 格式在醫院、長照與家之間交換 |
 
