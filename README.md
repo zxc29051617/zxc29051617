@@ -54,8 +54,8 @@ hsien.ting.w@github
 | | Project | 說明 |
 | :---: | --- | --- |
 | 🫀 | [**HRV Early Warning**](https://github.com/zxc29051617/Biomedical-Innovation-2026_HRV-EarlyWarning) | 重症病人的循環風險預警：用 MIMIC-III 加護病房資料中的 ECG 與 HRV 變化，預測病人未來 6 小時內是否需要開始使用升壓劑；目前也在做心導管檢查前的 ECG 急性冠狀動脈阻塞辨識 |
-| 🧫 | **Virtual Cell Challenge 2026** 🔒 | 在臺大資工黃宣誠老師實驗室參加 Arc Institute 的 Virtual Cell Challenge：預測模型沒看過的 CRISPRi 基因擾動，會讓單細胞的基因表達怎麼變化 |
-| 🐣 | **EmbryoWeave** 🔒 | 參加 Virtual Embryo Challenge 2026 的 Track 2（Agent Team）：預測胚胎在未公開時間點的細胞組成 |
+| 🧫 | **Virtual Cell Challenge 2026** 🔒 | Arc Institute 主辦：只給三種細胞未經處理的對照組，預測它們用 CRISPRi 各關掉 300 個基因後，18,533 個基因的表現會怎麼改變；這三種細胞沒有任何擾動資料，只能從其他細胞的公開實驗推測 |
+| 🐣 | **EmbryoWeave** 🔒 | Virtual Embryo Challenge 2026 Track 2（Agent Team）：用已公開的胚胎發育時間點（每個細胞有 498 個基因的表現量與三維座標），預測未公開時間點會出現哪些細胞群；這個 track 規定由 LLM agent 自己提出方法、寫程式、評估與修改 |
 | 🤖 | **Agentic scRNA-seq** 🔒 | 中研院資訊所暑期實習：用 deep agents 協助設定和檢查單細胞 RNA-seq 的分析流程 |
 | 🩺 | **Personal Health Twin** 🔒 | BUILDMODE GEN-AI 黑客松 2026（AI for Taiwan／Social Impact 賽道）：每個人一份跟著自己走的健康紀錄，從長照機構開始，用 FHIR／TW Core 格式在醫院、長照與家之間交換 |
 
