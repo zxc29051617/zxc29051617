@@ -79,7 +79,6 @@ hsien.ting.w@github
         <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟒𝟑: <a href="https://github.com/zxc29051617/114-1_ML_NTU_2025Fall_Machine-Learning">𝐌𝐋 (𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠)</a></li>
         <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟒𝟐: <a href="https://github.com/zxc29051617/114-2_NLP_NTU_2026Spring_Natural-Language-Processing">𝐍𝐋𝐏 (𝐍𝐚𝐭𝐮𝐫𝐚𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠)</a></li>
         <li>𝐂𝐒𝐈𝐄 𝟓𝟒𝟐𝟖: 𝐂𝐕𝐏𝐃𝐋 (𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐞 𝐰𝐢𝐭𝐡 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠) 🔒</li>
-        <li>𝐂𝐒𝐈𝐄 𝟓𝟕𝟐𝟏: 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐨𝐩𝐢𝐜𝐬 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐁𝐢𝐨𝐥𝐨𝐠𝐲 🔒</li>
         <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟓𝟒: 𝐀𝐂𝐃 (𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐂𝐨𝐦𝐩𝐢𝐥𝐞𝐫 𝐃𝐞𝐬𝐢𝐠𝐧) 🔒</li>
       </ul>
     </td>
@@ -105,6 +104,8 @@ hsien.ting.w@github
     </td>
   </tr>
 </table>
+
+<p><sub>📚 Also studied: Logic Circuit Design · Applied Linear Algebra · Fundamentals of Biomedical Engineering · Introduction to Biomedical Informatics · Digital, AI and Emerging Computing Architecture · Introduction to Bio-inspiration &amp; Lab-on-a-Chip · Special Topics in Computational Systems Biology</sub></p>
 
 <h2 align="center">✦ ˚ GitHub Stats ˚ ✦</h2>
 
