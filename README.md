@@ -103,4 +103,11 @@ hsien.ting.w@github
   <img src="https://img.shields.io/badge/__kaka.kamiko-1e1b4b?style=for-the-badge&logo=discord&logoColor=a78bfa" alt="Discord: _kaka.kamiko" title="Discord: _kaka.kamiko" />
 </p>
 
+<!-- Spotify card: https://github.com/magic-ike/spotify-data-card -->
+<p align="center">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31vtogae42jisckvdlayvjsmhqqi">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31vtogae42jisckvdlayvjsmhqqi&hide_title=1&hide_recents=1" width="320" alt="Spotify data card" />
+  </a>
+</p>
+
 <p align="center"><sub>˚ ✦ . ˚ ✧ thanks for visiting ✧ ˚ . ✦ ˚</sub></p>
