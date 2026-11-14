@@ -38,7 +38,9 @@ hsien.ting.w@github
 🌱 Exploring
    └─ Foundation Models · Embedded Systems
 
-💻 Languages: Python · C/C++ · Java
+💻 Programming: Python · C/C++ · Java · Bash
+⚡ HDL: Verilog
+🛠️ Tools: Git · Linux · Arduino · Raspberry Pi · 8051
 
 ✨ Stay curious. Keep exploring.
 ```
