@@ -33,7 +33,6 @@ hsien.ting.w@github
 
 | | Project | 說明 |
 | :---: | --- | --- |
-| 💊 | [**DeepKG-MMDRP**](https://github.com/zxc29051617/DeepKG-MMDRP-DrugResponse) | 在 MMDRP 藥物反應預測中加入 DRKG 知識圖譜 TransE embedding 作為第三模態<br>`AttentiveFP GNN` `DRKG TransE` `LMF` · 醫學電資整合創意專題(二) 114-2 |
 | 🧫 | **Virtual Cell Challenge 2026** 🔒 | Arc Virtual Cell Challenge 參賽：零樣本預測 CRISPRi 擾動後的單細胞基因表達 · NTU JH Lab |
 | 🐣 | **EmbryoWeave** 🔒 | Virtual Embryo Challenge 2026 Track 2（Agent Team）：預測未公開時間點的胚胎細胞群 |
 | 🤖 | **Agentic scRNA-seq** 🔒 | 中研院資科所實習：用 deep agents 協助設定與檢查單細胞 RNA-seq 分析流程 |
@@ -49,27 +48,27 @@ hsien.ting.w@github
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <h3>🤖 AI & Vision</h3>
+    <td valign="top">
+      <h3>📘 𝗖𝗦𝗜𝗘</h3>
       <ul>
-        <li>113-2 · <a href="https://github.com/zxc29051617/113-2_AI_NTU_2025Spring_Artificial-Intelligence">AI 人工智慧</a></li>
-        <li>114-1 · <a href="https://github.com/zxc29051617/114-1_ML_NTU_2025Fall_Machine-Learning">ML 機器學習</a></li>
-        <li>114-2 · <a href="https://github.com/zxc29051617/114-2_CV_NTU_2026Spring_Computer-Vision">CV 電腦視覺</a></li>
+        <li>𝐂𝐒𝐈𝐄 𝟓𝟒𝟎𝟎: <a href="https://github.com/zxc29051617/113-2_AI_NTU_2025Spring_Artificial-Intelligence">𝐀𝐈 (𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞)</a></li>
+        <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟒𝟓: <a href="https://github.com/zxc29051617/113-2_IDSP_NTU_2025Spring_Introduction-to-Digital-Signal-Processing">𝐈𝐃𝐒𝐏 (𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐢𝐠𝐧𝐚𝐥 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠)</a></li>
+        <li>𝐂𝐒𝐈𝐄 𝟓𝟐𝟏𝟎: <a href="https://github.com/zxc29051617/113-2_WEB_NTU_2025Spring_Web-Programming-and-Applications">𝐖𝐞𝐛 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐚𝐧𝐝 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬</a></li>
+        <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟒𝟑: <a href="https://github.com/zxc29051617/114-1_ML_NTU_2025Fall_Machine-Learning">𝐌𝐋 (𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠)</a></li>
       </ul>
     </td>
-    <td valign="top" width="33%">
-      <h3>⚙️ Systems</h3>
+    <td valign="top">
+      <h3>📗 𝗘𝗘</h3>
       <ul>
-        <li>113-2 · <a href="https://github.com/zxc29051617/113-2_OS_NTU_2025Spring_Operating-System">OS 作業系統</a></li>
-        <li>114-1 · <a href="https://github.com/zxc29051617/114-1_NTUST_2025Fall_ComputerOrganization">CO 計算機組織</a> <sub>NTUST</sub></li>
+        <li>𝐄𝐄 𝟓𝟏𝟕𝟑: <a href="https://github.com/zxc29051617/113-2_OS_NTU_2025Spring_Operating-System">𝐎𝐒 (𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬)</a></li>
+        <li>𝐄𝐄𝐄 𝟓𝟎𝟓𝟑: <a href="https://github.com/zxc29051617/114-2_CV_NTU_2026Spring_Computer-Vision">𝐂𝐕 (𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧)</a></li>
       </ul>
     </td>
-    <td valign="top" width="33%">
-      <h3>🧩 Software & Signals</h3>
+    <td valign="top">
+      <h3>📙 𝗢𝘁𝗵𝗲𝗿𝘀</h3>
       <ul>
-        <li>113-2 · IDSP 數位訊號處理導論 🔒</li>
-        <li>113-2 · Web 程式設計與應用 🔒</li>
-        <li>114-2 · OOP 物件導向程式語言 🔒</li>
+        <li>𝐄𝐓 𝟑𝟓𝟎𝟐𝟕𝟎𝟏: <a href="https://github.com/zxc29051617/114-1_NTUST_2025Fall_ComputerOrganization">𝐂𝐎 (𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧)</a> <sub>NTUST</sub></li>
+        <li>𝐄𝐒𝐎𝐄 𝟐𝟎𝟏𝟑: <a href="https://github.com/zxc29051617/114-2_OOP_NTU_2026Spring_Object-Oriented-Programming">𝐎𝐎𝐏 (𝐎𝐛𝐣𝐞𝐜𝐭-𝐎𝐫𝐢𝐞𝐧𝐭𝐞𝐝 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠)</a></li>
       </ul>
     </td>
   </tr>
@@ -94,11 +93,14 @@ hsien.ting.w@github
 <h2 align="center">✦ ˚ Contact me ˚ ✦</h2>
 
 <p align="center">
-  Feel free to reach out ✧ 想聊研究或合作都歡迎來信
+  Feel free to reach out ✧ 想聊研究、合作或交朋友都歡迎
   <br><br>
-  <a href="mailto:r13945041@ntu.edu.tw">
-    <img src="https://img.shields.io/badge/r13945041%40ntu.edu.tw-1e1b4b?style=for-the-badge&logo=minutemailer&logoColor=a78bfa" alt="Email" />
-  </a>
+  <a href="mailto:xiaoliang29051617@gmail.com"><img src="https://img.shields.io/badge/xiaoliang29051617%40gmail.com-1e1b4b?style=for-the-badge&logo=gmail&logoColor=a78bfa" alt="Gmail" /></a>
+  <a href="mailto:r13945041@ntu.edu.tw"><img src="https://img.shields.io/badge/r13945041%40ntu.edu.tw-1e1b4b?style=for-the-badge&logo=minutemailer&logoColor=a78bfa" alt="NTU email" /></a>
+  <br>
+  <a href="https://www.facebook.com/hsien.ting.wang.2025"><img src="https://img.shields.io/badge/hsien.ting.wang.2025-1e1b4b?style=for-the-badge&logo=facebook&logoColor=a78bfa" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/hsien_ting.w/"><img src="https://img.shields.io/badge/hsien__ting.w-1e1b4b?style=for-the-badge&logo=instagram&logoColor=a78bfa" alt="Instagram" /></a>
+  <img src="https://img.shields.io/badge/__kaka.kamiko-1e1b4b?style=for-the-badge&logo=discord&logoColor=a78bfa" alt="Discord: _kaka.kamiko" title="Discord: _kaka.kamiko" />
 </p>
 
 <p align="center"><sub>˚ ✦ . ˚ ✧ thanks for visiting ✧ ˚ . ✦ ˚</sub></p>
