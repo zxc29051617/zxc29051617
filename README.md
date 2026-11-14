@@ -53,9 +53,9 @@ hsien.ting.w@github
 | | Project | 說明 |
 | :---: | --- | --- |
 | 🫀 | [**HRV Early Warning**](https://github.com/zxc29051617/Biomedical-Innovation-2026_HRV-EarlyWarning) | 重症病人的循環風險預警：用 MIMIC-III 加護病房資料中的 ECG 與 HRV 變化，預測病人未來 6 小時內是否需要開始使用升壓劑；目前也在做心導管檢查前的 ECG 急性冠狀動脈阻塞辨識 |
-| 📈 | **Influenza Trend Forecasting** | 用時間序列基礎模型 TimesFM 3.0 推估流感趨勢（實驗中）· credit: Arthur Lee, NTU |
+| 📈 | **Influenza Trend Forecasting** | 用時間序列基礎模型 TimesFM 3.0 推估流感趨勢 · credit: Arthur Lee, NTU |
 | 🪶 | [**Crisis-aware Medical AI**](https://www.twaicoe.org/crisis-aware-medical-ai-from-foundational-intelligence-to-lightweight-deployment-cn) | 國科會計畫子計畫三：醫療 AI 的知識蒸餾與邊緣部署 |
-| 🧫 | **Virtual Cell Challenge 2026** 🔒 | Arc Institute 主辦：只給三種細胞未經處理的對照組，預測它們用 CRISPRi 各關掉 300 個基因後，18,533 個基因的表現會怎麼改變；這三種細胞沒有任何擾動資料，只能從其他細胞的公開實驗推測 |
+| 🧫 | **Virtual Cell Challenge 2026** 🔒 | 零樣本擾動預測：只給三種細胞未經處理的對照組，預測 CRISPRi 關掉 300 個基因後，18,533 個基因的表現怎麼變化 |
 | 🐣 | **EmbryoWeave** 🔒 | Virtual Embryo Challenge 2026 Track 2（Agent Team）：用已公開的胚胎發育時間點（每個細胞有 498 個基因的表現量與三維座標），預測未公開時間點會出現哪些細胞群；這個 track 規定由 LLM agent 自己提出方法、寫程式、評估與修改 |
 | 🤖 | **Agentic scRNA-seq** 🔒 | 用 LangChain Deep Agents 自動化單細胞 RNA-seq 分析：coordinator 帶四個 subagent，把對話需求轉成分析設定，自動跑完從 FASTQ 到細胞註解的 26 步流程，每一步由 judge 把關、關鍵決定交給人確認，最後核對報告裡的每個數字 |
 | 🩺 | **Personal Health Twin** 🔒 | BUILDMODE GEN-AI 黑客松 2026（AI for Taiwan／Social Impact 賽道）：每個人一份跟著自己走的健康紀錄，從長照機構開始，用 FHIR／TW Core 格式在醫院、長照與家之間交換 |
