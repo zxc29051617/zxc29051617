@@ -52,11 +52,11 @@ hsien.ting.w@github
 
 | | Project | 說明 |
 | :---: | --- | --- |
-| 🫀 | [**HRV Early Warning**](https://github.com/zxc29051617/Biomedical-Innovation-2026_HRV-EarlyWarning) | 重症患者循環風險預警：用 MIMIC-III ICU 的 ECG 與 HRV 趨勢，預測未來 6 小時內開始使用升壓劑的風險；目前主線為造影前 ECG 急性冠脈阻塞辨識 |
-| 🧫 | **Virtual Cell Challenge 2026** 🔒 | Arc Virtual Cell Challenge 參賽：零樣本預測 CRISPRi 擾動後的單細胞基因表達 · NTU JH Lab |
-| 🐣 | **EmbryoWeave** 🔒 | Virtual Embryo Challenge 2026 Track 2（Agent Team）：預測未公開時間點的胚胎細胞群 |
-| 🤖 | **Agentic scRNA-seq** 🔒 | 中研院資科所實習：用 deep agents 協助設定與檢查單細胞 RNA-seq 分析流程 |
-| 🩺 | **Personal Health Twin** 🔒 | BUILDMODE GEN-AI HACKATHON 2026 · AI for Taiwan／Social Impact：跟著人走的健康紀錄（FHIR／TW Core） |
+| 🫀 | [**HRV Early Warning**](https://github.com/zxc29051617/Biomedical-Innovation-2026_HRV-EarlyWarning) | 重症病人的循環風險預警：用 MIMIC-III 加護病房資料中的 ECG 與 HRV 變化，預測病人未來 6 小時內是否需要開始使用升壓劑；目前也在做心導管檢查前的 ECG 急性冠狀動脈阻塞辨識 |
+| 🧫 | **Virtual Cell Challenge 2026** 🔒 | 在臺大資工黃宣誠老師實驗室參加 Arc Institute 的 Virtual Cell Challenge：預測模型沒看過的 CRISPRi 基因擾動，會讓單細胞的基因表達怎麼變化 |
+| 🐣 | **EmbryoWeave** 🔒 | 參加 Virtual Embryo Challenge 2026 的 Track 2（Agent Team）：預測胚胎在未公開時間點的細胞組成 |
+| 🤖 | **Agentic scRNA-seq** 🔒 | 中研院資訊所暑期實習：用 deep agents 協助設定和檢查單細胞 RNA-seq 的分析流程 |
+| 🩺 | **Personal Health Twin** 🔒 | BUILDMODE GEN-AI 黑客松 2026（AI for Taiwan／Social Impact 賽道）：每個人一份跟著自己走的健康紀錄，從長照機構開始，用 FHIR／TW Core 格式在醫院、長照與家之間交換 |
 
 <p align="right"><sub>🔒 = private repo，程式碼未公開</sub></p>
 
