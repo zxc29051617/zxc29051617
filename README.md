@@ -53,7 +53,7 @@ hsien.ting.w@github
 | | Project | 說明 |
 | :---: | --- | --- |
 | 🫀 | [**HRV Early Warning**](https://github.com/zxc29051617/Biomedical-Innovation-2026_HRV-EarlyWarning) | 重症病人的循環風險預警：用 MIMIC-III 加護病房資料中的 ECG 與 HRV 變化，預測病人未來 6 小時內是否需要開始使用升壓劑；目前也在做心導管檢查前的 ECG 急性冠狀動脈阻塞辨識 |
-| 📈 | **Influenza Trend Forecasting** | 用時間序列基礎模型 TimesFM 3.0 推估流感趨勢 · credit: Arthur Lee, NTU |
+| 📈 | **Influenza Trend Forecasting** | 用時間序列基礎模型 TimesFM 3.0 推估流感趨勢 |
 | 🪶 | [**Crisis-aware Medical AI**](https://www.twaicoe.org/crisis-aware-medical-ai-from-foundational-intelligence-to-lightweight-deployment-cn) | 國科會計畫子計畫三：醫療 AI 的知識蒸餾與邊緣部署 |
 | 🧫 | **Virtual Cell Challenge 2026** 🔒 | 零樣本擾動預測：只給三種細胞未經處理的對照組，預測 CRISPRi 關掉 300 個基因後，18,533 個基因的表現怎麼變化 |
 | 🐣 | **EmbryoWeave** 🔒 | Virtual Embryo Challenge 2026 Track 2（Agent Team）：用已公開的胚胎發育時間點（每個細胞有 498 個基因的表現量與三維座標），預測未公開時間點會出現哪些細胞群；這個 track 規定由 LLM agent 自己提出方法、寫程式、評估與修改 |
