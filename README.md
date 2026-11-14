@@ -117,8 +117,6 @@ hsien.ting.w@github
   Feel free to reach out ✧ 想聊研究、合作或交朋友都歡迎
   <br><br>
   <a href="mailto:xiaoliang29051617@gmail.com"><img src="https://img.shields.io/badge/xiaoliang29051617%40gmail.com-1e1b4b?style=for-the-badge&logo=gmail&logoColor=a78bfa" alt="Gmail" /></a>
-  <a href="mailto:r13945041@ntu.edu.tw"><img src="https://img.shields.io/badge/r13945041%40ntu.edu.tw-1e1b4b?style=for-the-badge&logo=minutemailer&logoColor=a78bfa" alt="NTU email" /></a>
-  <br>
   <a href="https://www.facebook.com/hsien.ting.wang.2025"><img src="https://img.shields.io/badge/hsien.ting.wang.2025-1e1b4b?style=for-the-badge&logo=facebook&logoColor=a78bfa" alt="Facebook" /></a>
   <a href="https://www.instagram.com/hsien_ting.w/"><img src="https://img.shields.io/badge/hsien__ting.w-1e1b4b?style=for-the-badge&logo=instagram&logoColor=a78bfa" alt="Instagram" /></a>
   <img src="https://img.shields.io/badge/__kaka.kamiko-1e1b4b?style=for-the-badge&logo=discord&logoColor=a78bfa" alt="Discord: _kaka.kamiko" title="Discord: _kaka.kamiko" />
