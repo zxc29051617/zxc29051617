@@ -15,7 +15,7 @@
 hsien.ting.w@github
 ──────────────────────────────────
 🏫 NTU BEBI | 臺大生醫電子與資訊學研究所
-🎓 Advisor: Prof. 歐陽彥正
+🎓 Advisor: Prof. Yen-Jen Oyang
 
 🔬 Research Labs & Collaborations
    ├─ Molecular Bioinformatics Lab
