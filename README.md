@@ -16,11 +16,10 @@ hsien.ting.w@github
 ──────────────────────────────────
 🏫 NTU BEBI | 國立臺灣大學生醫電子與資訊學研究所 資訊組
 🎓 Advisor: Prof. Yen-Jen Oyang
+🔬 Lab: Molecular Bioinformatics Lab
 
-🔬 Research Labs & Collaborations
-   ├─ Molecular Bioinformatics Lab
-   ├─ CMJM Lab
-   │  Computational Multidata Junction in Medicine
+🤝 Collaborations
+   ├─ Computational Multidata Junction in Medicine Lab
    └─ Computational Systems Biology Lab
 
 🏛️ Previous Research Experience
