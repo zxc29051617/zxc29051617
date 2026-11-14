@@ -31,7 +31,7 @@ hsien.ting.w@github
    ├─ Machine Learning × Emergency Medical Services
    ├─ Virtual Cell & Virtual Embryo
    ├─ Medical Time-Series Forecasting
-   ├─ Model Distillation & Edge AI
+   ├─ Knowledge Distillation & Edge AI
    ├─ Biomedical AI
    └─ Agentic AI × Bioinformatics
 
