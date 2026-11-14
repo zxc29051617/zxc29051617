@@ -76,6 +76,9 @@ hsien.ting.w@github
         <li>𝐂𝐒𝐈𝐄 𝟓𝟐𝟏𝟎: <a href="https://github.com/zxc29051617/113-2_WEB_NTU_2025Spring_Web-Programming-and-Applications">𝐖𝐞𝐛 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐚𝐧𝐝 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬</a></li>
         <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟒𝟑: <a href="https://github.com/zxc29051617/114-1_ML_NTU_2025Fall_Machine-Learning">𝐌𝐋 (𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠)</a></li>
         <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟒𝟐: <a href="https://github.com/zxc29051617/114-2_NLP_NTU_2026Spring_Natural-Language-Processing">𝐍𝐋𝐏 (𝐍𝐚𝐭𝐮𝐫𝐚𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠)</a></li>
+        <li>𝐂𝐒𝐈𝐄 𝟓𝟒𝟐𝟖: 𝐂𝐕𝐏𝐃𝐋 (𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐞 𝐰𝐢𝐭𝐡 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠) 🔒</li>
+        <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟓𝟒: 𝐀𝐂𝐃 (𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐂𝐨𝐦𝐩𝐢𝐥𝐞𝐫 𝐃𝐞𝐬𝐢𝐠𝐧) 🔒</li>
+        <li>𝐂𝐒𝐈𝐄 𝟓𝟕𝟐𝟏: 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐨𝐩𝐢𝐜𝐬 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐁𝐢𝐨𝐥𝐨𝐠𝐲 🔒</li>
       </ul>
     </td>
     <td valign="top">
@@ -84,6 +87,7 @@ hsien.ting.w@github
         <li>𝐄𝐄 𝟓𝟏𝟕𝟑: <a href="https://github.com/zxc29051617/113-2_OS_NTU_2025Spring_Operating-System">𝐎𝐒 (𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬)</a></li>
         <li>𝐂𝐨𝐦𝐦𝐄 𝟓𝟎𝟑𝟎: <a href="https://github.com/zxc29051617/114-1_TFW_NTU_2025Fall_Time-Frequency-Analysis-and-Wavelet-Transform">𝐓𝐅𝐖 (𝐓𝐢𝐦𝐞-𝐅𝐫𝐞𝐪𝐮𝐞𝐧𝐜𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐚𝐧𝐝 𝐖𝐚𝐯𝐞𝐥𝐞𝐭 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦)</a></li>
         <li>𝐄𝐄𝐄 𝟓𝟎𝟓𝟑: <a href="https://github.com/zxc29051617/114-2_CV_NTU_2026Spring_Computer-Vision">𝐂𝐕 (𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧)</a></li>
+        <li>𝐂𝐨𝐦𝐦𝐄 𝟓𝟎𝟔𝟗: 𝐑𝐋 (𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞𝐦𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠) 🔒</li>
       </ul>
     </td>
     <td valign="top">
@@ -91,6 +95,8 @@ hsien.ting.w@github
       <ul>
         <li>𝐄𝐓 𝟑𝟓𝟎𝟐𝟕𝟎𝟏: <a href="https://github.com/zxc29051617/114-1_NTUST_2025Fall_ComputerOrganization">𝐂𝐎 (𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧)</a> <sub>NTUST</sub></li>
         <li>𝐄𝐒𝐎𝐄 𝟐𝟎𝟏𝟑: <a href="https://github.com/zxc29051617/114-2_OOP_NTU_2026Spring_Object-Oriented-Programming">𝐎𝐎𝐏 (𝐎𝐛𝐣𝐞𝐜𝐭-𝐎𝐫𝐢𝐞𝐧𝐭𝐞𝐝 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠)</a></li>
+        <li>𝐄𝐒𝐎𝐄 𝟓𝟏𝟒𝟗: 𝐄𝐦𝐛𝐞𝐝𝐝𝐞𝐝 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 🔒</li>
+        <li>𝐄𝐓 𝟒𝟔𝟎𝟗𝟕𝟎𝟏: 𝐄𝐦𝐛𝐞𝐝𝐝𝐞𝐝 𝐒𝐲𝐬𝐭𝐞𝐦 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 🔒 <sub>NTUST</sub></li>
       </ul>
     </td>
   </tr>
