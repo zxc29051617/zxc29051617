@@ -27,6 +27,7 @@ hsien.ting.w@github
    ├─ Virtual Cell & Virtual Embryo
    ├─ Medical Time-Series Forecasting
    ├─ Model Distillation & Edge AI
+   ├─ Biomedical AI
    └─ Agentic scRNA-seq Analysis @ Academia Sinica
 
 🌱 Exploring
