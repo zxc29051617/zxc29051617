@@ -105,7 +105,7 @@ hsien.ting.w@github
   </tr>
 </table>
 
-<p><sub>📚 Also studied: Logic Circuit Design · Applied Linear Algebra · Fundamentals of Biomedical Engineering · Introduction to Biomedical Informatics · Digital, AI and Emerging Computing Architecture · Introduction to Bio-inspiration &amp; Lab-on-a-Chip · Special Topics in Computational Systems Biology</sub></p>
+<p><sub>📚 Other Coursework: Logic Circuit Design · Applied Linear Algebra · Fundamentals of Biomedical Engineering · Introduction to Biomedical Informatics · Digital, AI and Emerging Computing Architecture · Introduction to Bio-inspiration &amp; Lab-on-a-Chip · Special Topics in Computational Systems Biology</sub></p>
 
 <h2 align="center">✦ ˚ GitHub Stats ˚ ✦</h2>
 
