@@ -87,6 +87,7 @@ hsien.ting.w@github
       <h3>📗 𝗘𝗘</h3>
       <ul>
         <li>𝐄𝐄 𝟒𝟎𝟐𝟐: 𝐃𝐒 (𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬) 🔒</li>
+        <li>𝐄𝐄 𝟑𝟎𝟏𝟐: 𝐄𝐃𝐀 (𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐄𝐥𝐞𝐜𝐭𝐫𝐨𝐧𝐢𝐜 𝐃𝐞𝐬𝐢𝐠𝐧 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧) 🔒</li>
         <li>𝐄𝐄 𝟓𝟏𝟕𝟑: <a href="https://github.com/zxc29051617/113-2_OS_NTU_2025Spring_Operating-System">𝐎𝐒 (𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬)</a></li>
         <li>𝐄𝐄𝐄 𝟓𝟎𝟓𝟑: <a href="https://github.com/zxc29051617/114-2_CV_NTU_2026Spring_Computer-Vision">𝐂𝐕 (𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧)</a></li>
         <li>𝐂𝐨𝐦𝐦𝐄 𝟓𝟎𝟑𝟎: <a href="https://github.com/zxc29051617/114-1_TFW_NTU_2025Fall_Time-Frequency-Analysis-and-Wavelet-Transform">𝐓𝐅𝐖 (𝐓𝐢𝐦𝐞-𝐅𝐫𝐞𝐪𝐮𝐞𝐧𝐜𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐚𝐧𝐝 𝐖𝐚𝐯𝐞𝐥𝐞𝐭 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦)</a></li>
