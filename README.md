@@ -9,21 +9,32 @@
 <br>
 
 <p>
-<img align="left" src="assets/avatar.png" width="240" alt="avatar" />
+<img align="left" src="assets/avatar.png" width="300" alt="avatar" />
 
 ```text
 hsien.ting.w@github
 ──────────────────────────────────
-🏫 NTU BEBI 臺大生醫電子與資訊學研究所
-🧬 Molecular Bioinformatics Lab
-   分子生醫資訊實驗室
-🌱 Working on
-   ├─ 藥物反應預測 × 知識圖譜
-   ├─ Virtual cell & virtual embryo
-   ├─ 生醫訊號 / HRV 早期預警
-   └─ 生物資訊、機器學習 / 電腦視覺
-💫 Languages: Python, C / C++, Java
-🧝‍♀️ 魔法要一點一點學，程式也是
+🏫 NTU BEBI | 臺大生醫電子與資訊學研究所
+🎓 Advisor: Prof. 歐陽彥正
+
+🔬 Research Labs & Collaborations
+   ├─ Molecular Bioinformatics Lab
+   ├─ CMJM Lab
+   └─ Computational Systems Biology Lab
+
+🧬 Research & Projects
+   ├─ Machine Learning × Emergency Medical Services
+   ├─ Virtual Cell & Virtual Embryo
+   ├─ Medical Time-Series Forecasting
+   ├─ Model Distillation & Edge AI
+   └─ Biomedical AI · Computer Vision
+
+🌱 Exploring
+   └─ Foundation Models · Embedded Systems
+
+💻 Languages: Python · C/C++ · Java
+
+✨ Stay curious. Keep exploring.
 ```
 </p>
 
