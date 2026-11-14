@@ -22,6 +22,11 @@ hsien.ting.w@github
    ├─ CMJM Lab
    └─ Computational Systems Biology Lab
 
+🏛️ Previous Research Experience
+   └─ Academia Sinica | IIS
+      └─ Lab of Systems and Network Biology
+         Summer Research Intern · 2026
+
 🧬 Research & Projects
    ├─ Machine Learning × Emergency Medical Services
    ├─ Virtual Cell & Virtual Embryo
