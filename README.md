@@ -61,14 +61,6 @@ hsien.ting.w@github
 
 <p align="right"><sub>🔒 = private repo，程式碼未公開</sub></p>
 
-<h2 align="center">✦ ˚ Projects ˚ ✦</h2>
-
-| | Project | 說明 |
-| :---: | --- | --- |
-| 💊 | [**DeepKG-MMDRP**](https://github.com/zxc29051617/DeepKG-MMDRP-DrugResponse) | 在 MMDRP 藥物反應預測中加入 DRKG 知識圖譜 TransE embedding 作為第三模態<br>`AttentiveFP GNN` `DRKG TransE` `LMF` · 醫學電資整合創意專題(二) 114-2 |
-| 📊 | [**Bubble Sort Visualizer**](https://github.com/zxc29051617/Software-Engineering_group4) | DSA 課程軟體工程第 4 組：十種排序演算法的互動式教學網站，可以逐步播放、對照虛擬碼、讓演算法比賽 · [線上網站](https://zxc29051617.github.io/Software-Engineering_group4/) |
-| 🌳 | [**Personal Budget Book**](https://github.com/zxc29051617/OOP-G13-Personal-Budget-Book) | 物件導向程式語言 G13 期末專題：Java Swing 記帳本，管理預算、定期交易與報表圖表，用種樹機制鼓勵每天記帳 |
-
 <h2 align="center">✦ ˚ Courses ˚ ✦</h2>
 
 <p align="center">
