@@ -55,12 +55,14 @@ hsien.ting.w@github
         <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟒𝟓: <a href="https://github.com/zxc29051617/113-2_IDSP_NTU_2025Spring_Introduction-to-Digital-Signal-Processing">𝐈𝐃𝐒𝐏 (𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐢𝐠𝐧𝐚𝐥 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠)</a></li>
         <li>𝐂𝐒𝐈𝐄 𝟓𝟐𝟏𝟎: <a href="https://github.com/zxc29051617/113-2_WEB_NTU_2025Spring_Web-Programming-and-Applications">𝐖𝐞𝐛 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐚𝐧𝐝 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬</a></li>
         <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟒𝟑: <a href="https://github.com/zxc29051617/114-1_ML_NTU_2025Fall_Machine-Learning">𝐌𝐋 (𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠)</a></li>
+        <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟒𝟐: <a href="https://github.com/zxc29051617/114-2_NLP_NTU_2026Spring_Natural-Language-Processing">𝐍𝐋𝐏 (𝐍𝐚𝐭𝐮𝐫𝐚𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠)</a></li>
       </ul>
     </td>
     <td valign="top">
       <h3>📗 𝗘𝗘</h3>
       <ul>
         <li>𝐄𝐄 𝟓𝟏𝟕𝟑: <a href="https://github.com/zxc29051617/113-2_OS_NTU_2025Spring_Operating-System">𝐎𝐒 (𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬)</a></li>
+        <li>𝐂𝐨𝐦𝐦𝐄 𝟓𝟎𝟑𝟎: <a href="https://github.com/zxc29051617/114-1_TFW_NTU_2025Fall_Time-Frequency-Analysis-and-Wavelet-Transform">𝐓𝐅𝐖 (𝐓𝐢𝐦𝐞-𝐅𝐫𝐞𝐪𝐮𝐞𝐧𝐜𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐚𝐧𝐝 𝐖𝐚𝐯𝐞𝐥𝐞𝐭 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦)</a></li>
         <li>𝐄𝐄𝐄 𝟓𝟎𝟓𝟑: <a href="https://github.com/zxc29051617/114-2_CV_NTU_2026Spring_Computer-Vision">𝐂𝐕 (𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧)</a></li>
       </ul>
     </td>
