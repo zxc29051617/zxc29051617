@@ -1,0 +1,43 @@
+name: Generate profile assets
+
+# Builds the contribution snake and the top-languages card, then publishes
+# them to the `output` branch, which README.md loads its images from.
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily, 08:00 Taiwan time
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#7c3aed&color_dots=#ebedf0,#ddd6fe,#c4b5fd,#a78bfa,#7c3aed
+            dist/snake-dark.svg?palette=github-dark&color_snake=#c4b5fd&color_dots=#161b22,#3b0764,#5b21b6,#8b5cf6,#c4b5fd
+
+      - name: Generate top languages card
+        run: python3 scripts/top_langs.py dist/top-langs.svg
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
