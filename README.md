@@ -33,7 +33,7 @@ hsien.ting.w@github
    ├─ Medical Time-Series Forecasting
    ├─ Model Distillation & Edge AI
    ├─ Biomedical AI
-   └─ Agentic scRNA-seq Analysis @ Academia Sinica
+   └─ Agentic AI × Bioinformatics
 
 🌱 Exploring
    └─ Foundation Models · Embedded Systems
