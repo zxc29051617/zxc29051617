@@ -133,6 +133,8 @@ hsien.ting.w@github
 
 <h2 align="center">✦ ˚ Contact me ˚ ✦</h2>
 
+<h2 align="center">✦ ˚ Contact me ˚ ✦</h2>
+
 <p align="center">
   Feel free to reach out ✧ 想聊研究、合作或交朋友都歡迎
   <br><br>
@@ -141,6 +143,7 @@ hsien.ting.w@github
   <a href="https://www.instagram.com/hsien_ting.w/"><img src="https://img.shields.io/badge/hsien__ting.w-1e1b4b?style=for-the-badge&logo=instagram&logoColor=a78bfa" alt="Instagram" /></a>
   <img src="https://img.shields.io/badge/__kaka.kamiko-1e1b4b?style=for-the-badge&logo=discord&logoColor=a78bfa" alt="Discord: _kaka.kamiko" title="Discord: _kaka.kamiko" />
   <a href="https://op.gg/lol/summoners/tw/%E6%88%91%E5%B0%8D%E4%B8%96%E7%95%8C%E8%AA%AA%E6%99%9A%E5%AE%89%E5%94%AF%E7%8D%A8%E5%B0%8D%E5%A5%B9%E8%AA%AA%E5%96%9C%E6%AD%A1-0227"><img src="https://img.shields.io/badge/%E6%88%91%E5%B0%8D%E4%B8%96%E7%95%8C%E8%AA%AA%E6%99%9A%E5%AE%89%E5%94%AF%E7%8D%A8%E5%B0%8D%E5%A5%B9%E8%AA%AA%E5%96%9C%E6%AD%A1%230227-1e1b4b?style=for-the-badge&logo=leagueoflegends&logoColor=a78bfa" alt="League of Legends: 我對世界說晚安唯獨對她說喜歡#0227" title="League of Legends（TW）: 我對世界說晚安唯獨對她說喜歡#0227" /></a>
+  <a href="https://www.webtoons.com/zh-hant/favorite"><img src="https://img.shields.io/badge/WEBTOON-1e1b4b?style=for-the-badge&logo=webtoon&logoColor=a78bfa" alt="Webtoon" /></a>
 </p>
 
 <!-- Spotify card: https://github.com/magic-ike/spotify-data-card -->
