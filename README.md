@@ -8,9 +8,12 @@
 
 <br>
 
-<p>
-<img align="left" src="assets/avatar.png" width="300" alt="avatar" />
-
+<table>
+  <tr>
+    <td align="center" valign="middle" width="380">
+      <img src="assets/平東.jpg" width="360" alt="avatar" />
+    </td>
+    <td valign="middle">
 ```text
 hsien.ting.w@github
 ──────────────────────────────────
