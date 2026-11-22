@@ -133,8 +133,6 @@ hsien.ting.w@github
 
 <h2 align="center">✦ ˚ Contact me ˚ ✦</h2>
 
-<h2 align="center">✦ ˚ Contact me ˚ ✦</h2>
-
 <p align="center">
   Feel free to reach out ✧ 想聊研究、合作或交朋友都歡迎
   <br><br>
