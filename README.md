@@ -7,13 +7,10 @@
 </div>
 
 <br>
+<p>
+<img align="left" src="assets/平東.jpg" width="320" alt="avatar" />
 
-<table>
-  <tr>
-    <td align="center" valign="middle" width="380">
-      <img src="assets/平東.jpg" width="360" alt="avatar" />
-    </td>
-    <td valign="middle">
+  
 ```text
 hsien.ting.w@github
 ──────────────────────────────────
@@ -155,4 +152,3 @@ hsien.ting.w@github
 </p>
 
 <p align="center"><sub>˚ ✦ . ˚ ✧ thanks for visiting ✧ ˚ . ✦ ˚</sub></p>
-</td>
