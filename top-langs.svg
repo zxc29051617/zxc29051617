@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Most used languages">
+  <title>Most used languages</title>
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a78bfa; }
+    .lang  { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #ddd6fe; }
+    .pct   { font: 600 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a78bfa; }
+    .item  { opacity: 0; animation: fade .5s ease-out forwards; }
+    .bar   { transform-origin: 25px 0; animation: grow .9s ease-out forwards; transform: scaleX(0); }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes grow { to { transform: scaleX(1); } }
+  </style>
+  <defs><clipPath id="bar"><rect x="25" y="62" width="445" height="10" rx="5"/></clipPath></defs>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="12" fill="#1e1b4b" stroke="#4c1d95"/>
+  <text x="25" y="38" class="title">✦ Most Used Languages</text>
+  <rect x="25" y="62" width="445" height="10" rx="5" fill="#2e1065"/>
+  <g clip-path="url(#bar)"><g class="bar"><rect x="25.00" y="62" width="263.71" height="10" fill="#a78bfa"/><rect x="288.71" y="62" width="45.24" height="10" fill="#f0abfc"/><rect x="333.95" y="62" width="39.48" height="10" fill="#818cf8"/><rect x="373.44" y="62" width="31.09" height="10" fill="#c4b5fd"/><rect x="404.52" y="62" width="28.34" height="10" fill="#e879f9"/><rect x="432.86" y="62" width="22.10" height="10" fill="#ddd6fe"/></g></g>
+  <g class="item" style="animation-delay:150ms"><circle cx="30" cy="98" r="5" fill="#a78bfa"/><text x="44" y="102" class="lang">Python</text><text x="225" y="102" class="pct" text-anchor="end">59.3%</text></g><g class="item" style="animation-delay:270ms"><circle cx="255" cy="98" r="5" fill="#f0abfc"/><text x="269" y="102" class="lang">C</text><text x="450" y="102" class="pct" text-anchor="end">10.2%</text></g><g class="item" style="animation-delay:390ms"><circle cx="30" cy="126" r="5" fill="#818cf8"/><text x="44" y="130" class="lang">Java</text><text x="225" y="130" class="pct" text-anchor="end">8.9%</text></g><g class="item" style="animation-delay:510ms"><circle cx="255" cy="126" r="5" fill="#c4b5fd"/><text x="269" y="130" class="lang">C++</text><text x="450" y="130" class="pct" text-anchor="end">7.0%</text></g><g class="item" style="animation-delay:630ms"><circle cx="30" cy="154" r="5" fill="#e879f9"/><text x="44" y="158" class="lang">TypeScript</text><text x="225" y="158" class="pct" text-anchor="end">6.4%</text></g><g class="item" style="animation-delay:750ms"><circle cx="255" cy="154" r="5" fill="#ddd6fe"/><text x="269" y="158" class="lang">JavaScript</text><text x="450" y="158" class="pct" text-anchor="end">5.0%</text></g>
+</svg>
